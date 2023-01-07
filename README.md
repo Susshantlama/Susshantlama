@@ -1,9 +1,9 @@
 
+<p align="center">
+<img src="https://media.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.gif"/>
+</p>
 
-<!-- ![gif](https://media.giphy.com/media/26CalmkpfFU3io3yU/giphy.gif) -->
 # *About me*
-
-<img width="300" align="right" src="https://media.giphy.com/media/a5viI92PAF89q/giphy.gif"/>
 
 *My name is Sushant lama and i am software developer.Currently an undergrate student pursueing computer science and engineering at university of Calcutta*
 
